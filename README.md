@@ -1,1 +1,1 @@
-![](https://github.com/AbrahamTorresTek/matrixapp/blob/main/demo.gif)
+![](https://github.com/AbrahamTorresTek/matrixapp/blob/main/demo_short.gif)
