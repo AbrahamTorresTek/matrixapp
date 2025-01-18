@@ -1,5 +1,5 @@
 import CurrencyDetails from "@/components/currency/CurrencyDetails";
-import { useLocalSearchParams, useGlobalSearchParams, Link } from 'expo-router';
+import { useLocalSearchParams } from 'expo-router';
 
 export default function CurrencyDetailsRoute() {
     const params = useLocalSearchParams();
